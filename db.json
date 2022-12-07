@@ -1,0 +1,18 @@
+{
+    "users": [
+      {
+        "email": "dadegi@gmail.com",
+        "password": "$2a$10$S0cNM07ApdFy0SW3S81b0ubMIC2x0WCkoIvuwSb0/ofTQDfYHhrWu",
+        "name": "Dario",
+        "surname": "Del Giudice",
+        "id": 1
+      },
+      {
+        "email": "test@gmail.com",
+        "password": "$2a$10$utUngckxaaa26KIRM5Mso.CFNmhQIomjBuflkm29v/PVyJv0avEhO",
+        "name": "test1",
+        "surname": "test2",
+        "id": 2
+      }
+    ]
+}
